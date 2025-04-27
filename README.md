@@ -1,5 +1,6 @@
 # Experimental-Analysis-on-Smart-Contract-Vulnerabilities-using-ML-DL-Models
 
+<img src="images/fig1.png" alt="Architecture Diagram" width="800"/>
 
 This research uses CNN with Transformer architecture as presented in figure 1 to identify 
 vulnerabilities in smart contracts. The smart contracts (.sol files) have components like SPDX 
